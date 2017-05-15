@@ -11,4 +11,17 @@
 - [ ] add line for other stuff
 
 touch afile
+ls -al afile
 rm afile
+ls -al afile
+mount
+dir
+pwd
+git config --global --list
+:smiley:
+
+### TEAMS
+- bulls
+- bears
+- blackhawks
+
