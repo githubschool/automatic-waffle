@@ -13,3 +13,4 @@ CTR
 Lal Bagh
 Cubbon Park
 HAL Aeronautical Museum
+VTU Planetarium
