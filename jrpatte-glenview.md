@@ -10,6 +10,7 @@ sushi recommendations
 - Rocco's Tacos
 - Disney
 - rest
+- really good chinese food!
 
 ### Fun things to do
 
