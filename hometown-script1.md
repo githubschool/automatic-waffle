@@ -24,4 +24,6 @@ git config --global --list
 - bulls
 - bears
 - blackhawks
+- cubs
+- sox
 
