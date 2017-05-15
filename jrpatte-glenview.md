@@ -6,9 +6,11 @@ sushi recommendations
 
 ### Attractions
 
-
+- The Pharmacy
+- Rocco's Tacos
+- Disney
 
 ### Fun things to do
 
-fishing
-racing
+- Fishing
+- Racing
