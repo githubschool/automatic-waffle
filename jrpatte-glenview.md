@@ -16,3 +16,4 @@ sushi recommendations
 
 - Fishing
 - Racing
+- Swimming
