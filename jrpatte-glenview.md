@@ -18,3 +18,4 @@ other new pizza place
 
 - Fishing
 - Racing
+- Legoland (for kids)
