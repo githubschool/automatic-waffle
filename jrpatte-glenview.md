@@ -9,6 +9,7 @@ sushi recommendations
 - The Pharmacy
 - Rocco's Tacos
 - Disney
+- rest
 
 ### Fun things to do
 
