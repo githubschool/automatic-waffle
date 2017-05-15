@@ -3,14 +3,14 @@
 ### Restaurants
 
 sushi recommendations
+really good chinese food!
 
 ### Attractions
 
 - The Pharmacy
 - Rocco's Tacos
 - Disney
-- rest
-- really good chinese food!
+- Rest Stop
 
 ### Fun things to do
 
