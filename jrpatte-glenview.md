@@ -5,6 +5,7 @@
 sushi recommendations
 really good chinese food!
 new pizza place
+other new pizza place
 
 ### Attractions
 
