@@ -8,3 +8,4 @@
 ### Attractions
 -Bartlett Hills Golf Course
 -Bartlett Aquatic Center
+-Dog Parks
