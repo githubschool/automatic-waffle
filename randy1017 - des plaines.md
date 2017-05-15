@@ -5,6 +5,9 @@
  Leona's
 
  Don's Dock
+  
+  on Northwest Higghway
+  
 
  1st McDonald's
 
