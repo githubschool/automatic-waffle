@@ -4,6 +4,7 @@
 - Pizzaria Uno
 - Lou Mitchel's
 - Girl and the Goat
+- Margie's Candies
 
 ## Fun Things to Do
 - Millenium Park
