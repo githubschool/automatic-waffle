@@ -12,3 +12,4 @@
 
 - Walt Disney World
 - Universal Studios
+- Legoland (for kids)
