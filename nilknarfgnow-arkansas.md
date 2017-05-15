@@ -5,4 +5,5 @@
 - Burger Barn
 
 ### Attractions
-- Absolutely none
+- Berry Park
+- Harding University
