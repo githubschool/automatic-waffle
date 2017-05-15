@@ -4,6 +4,7 @@
 -Tokyo Steakhouse
 -JC's
 -V&V's
+- Chuckie Cheeses (for kids)
 
 ### Attractions
 -Bartlett Hills Golf Course
