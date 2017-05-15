@@ -1,17 +1,16 @@
 # GitHub for Developers
 
 - Class Date: May 15 - 16, 2017
-- Facilitators:
+- Facilitator:
   - @hectorsector :microphone:
-  - @ :speech_balloon:
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention @**.
+If you have a question, or need assistance during class, **please create an issue and mention @hectorsector**.
 
 ## Give Us Feedback
 
-Please take a moment to complete the class survey at: https://goo.gl/giChoy.
+Please take a moment to complete the class survey that will be emailed to you on May 16!
 
 ## Scripts for Adding Files
 
