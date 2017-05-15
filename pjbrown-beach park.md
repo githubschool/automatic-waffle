@@ -1,8 +1,10 @@
 # Beack Park. IL
+Northeast of _Six Flags_
 
 ### Restaurants
-There are many to choose from, along with many types
+Red Roin
+Steak N Shake
 
 ### Attractions
-Six Flags
 Gurnee Mills
+***Six Flags***
