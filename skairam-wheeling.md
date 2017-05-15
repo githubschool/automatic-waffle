@@ -2,4 +2,5 @@
 
 ### Restuarants
 Beer  Market
+Fruit Market
 ### Attractions
