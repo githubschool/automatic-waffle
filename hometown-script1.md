@@ -24,4 +24,8 @@ git config --global --list
 - bulls
 - bears
 - blackhawks
-
+#non B teams below
+- cubs
+- sox
+- fire
+- other?
