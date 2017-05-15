@@ -2,6 +2,8 @@
 
 ### Restaurants
 
+sushi recommendations
+
 ### Attractions
 
 ### Fun things to do
