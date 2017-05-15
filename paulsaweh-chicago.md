@@ -8,3 +8,4 @@
  -Navy Pier
  -Willis Tower
  -Hancook
+ -Museum of Arts
