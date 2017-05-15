@@ -16,4 +16,3 @@ really good chinese food!
 
 - Fishing
 - Racing
-- Swimming
