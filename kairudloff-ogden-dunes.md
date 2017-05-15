@@ -12,4 +12,5 @@
 - Sailing
 - Motor Boating
 - Fishing
-- Body surfing
+- Body Surfing
+- Catameran Racing
