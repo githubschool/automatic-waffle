@@ -10,3 +10,4 @@
 - Millenium Park
 - Field Museum
 - Willis Tower
+- Art Institute
