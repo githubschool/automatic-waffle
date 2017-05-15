@@ -1,5 +1,9 @@
 # Chicago, IL
 ### Restaurants
---Taco Bell
+-Taco Bell
+-WildFire
+-McDonalds
+-Cheese Cake Factory
 ### Attractions
- --Navy Pier
+ -Navy Pier
+ -Willis Tower
