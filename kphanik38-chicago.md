@@ -8,7 +8,7 @@ Adding cuisines for now
 - Bobby's, Deerfield
 
 #### Thai
-- Thai Noodles, Libertyville
+- Thai Noodles, Libertyville (on Libertyville st, near Avis/Budget car rentals)
 
 #### Italian
 - Carrabas, Schaumburg
