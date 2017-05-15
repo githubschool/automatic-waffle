@@ -6,6 +6,8 @@ MTR
 Janata
 Leela Palace
 CTR
+Brahmins Coffee Bar
+South Indies
 ```
 
 ### Attractions
