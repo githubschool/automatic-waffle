@@ -1,4 +1,0 @@
-# Wheeling, IL
-
-### Restuarants
-### Attractions
