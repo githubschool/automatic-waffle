@@ -7,3 +7,4 @@
 ### Attractions
  -Navy Pier
  -Willis Tower
+ -Hancook
