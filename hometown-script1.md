@@ -1,10 +1,10 @@
 #large print
 
-##parks and recreation
+parks and recreation
 
-###fun things to do
+fun things to do
 
-####great places to etc
+great places to etc
 
 - [ ] sub-branch - selection 1 - eat out
 - [ ] sub-branch - sel2 - fun things
