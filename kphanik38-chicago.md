@@ -2,8 +2,14 @@
 
 ### Restaurants
 
-#### Restaurant 1
+Adding cuisines for now
 
-#### Restaurant 1
+#### American
+
+#### Thai
+
+#### Italian
+
+#### Indian
 
 ### Attractions
